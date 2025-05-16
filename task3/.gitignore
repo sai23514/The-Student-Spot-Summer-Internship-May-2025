@@ -1,0 +1,17 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup and temporary files
+*~
+*.bak
+*.tmp
+*.swp
+
+# Ignore compiled binary
+tictactoe
