@@ -1,5 +1,62 @@
-ACC1001,John Doe,1500.50
-ACC1002,Jane Smith,2750.00
-ACC1003,Alex Johnson,680.25
-ACC1004,Emily Brown,9025.10
-ACC1005,Ravi Kumar,350.75
+## 🎯 Test Case 1: Add Incomes
+
+Category: Salary
+Amount: 4000
+Description: Monthly salary
+
+Category: Freelance
+Amount: 1200
+Description: Web dev project
+
+## 💸 Test Case 2: Add Expenses
+
+Category: Rent
+Amount: 1500
+Description: Apartment rent
+
+Category: Food
+Amount: 600
+Description: Groceries and dining
+
+Category: Entertainment
+Amount: 400
+Description: Streaming, movies, gaming
+
+Category: Transport
+Amount: 200
+Description: Fuel and Uber
+
+Category: Utilities
+Amount: 300
+Description: Electricity, water, internet
+
+##💰 Test Case 3: Set Savings Goal
+
+Goal: 1000
+
+## 📊 Expected Output Summary
+Total Income: $5200.00
+Total Expenses: $3000.00
+Current Balance: $2200.00
+Savings Rate: 42.3%
+Savings Goal: $1000.00 (Achieved!)
+
+Monthly Summary:
+- Monthly Income: $5200.00
+- Monthly Expenses: $3000.00
+- Monthly Balance: $2200.00
+
+Expense Breakdown:
+| Category      | Amount   | % of Total |
+|---------------|----------|------------|
+| Rent          | $1500.00 | 50.0%      |
+| Food          | $600.00  | 20.0%      |
+| Entertainment | $400.00  | 13.3%      |
+| Utilities     | $300.00  | 10.0%      |
+| Transport     | $200.00  | 6.7%       |
+
+
+🧠 Savings Suggestions Triggered
+
+If entertainment > 5% of income → suggest cutting down
+If savings rate < 20% → suggest improvement (won’t trigger in this case)
