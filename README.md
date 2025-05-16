@@ -35,7 +35,7 @@ Designed for individuals who want a fast, offline solution to track both **expen
 
 ## 📁 Project Structure
 
-<pre> ```plaintext BudgetExpenseTracker/ ├── task3.cpp # Main application code ├── README.md # Project documentation └── accounts.txt # Exported accounts data ``` </pre>
+<pre> ```plaintext BudgetExpenseTracker/ ├── task1.cpp # Main application code ├── README.md # Project documentation └── accounts.txt # Exported accounts data ``` </pre>
 
 
 ## 🧩 Core Modules
