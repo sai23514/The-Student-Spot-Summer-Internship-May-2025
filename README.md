@@ -35,7 +35,7 @@ Designed for individuals who want a fast, offline solution to track both **expen
 
 ## 📁 Project Structure
 
-<pre> ```plaintext bank-expense-tracker/
+<pre> ```plaintext budget-expense-tracker/
 ├── task1.cpp           # Main application code
 ├── README.md           # Project documentation
 ├── .gitignore          # Git ignore rules
