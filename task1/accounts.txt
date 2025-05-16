@@ -1,0 +1,5 @@
+ACC1001,John Doe,1500.50
+ACC1002,Jane Smith,2750.00
+ACC1003,Alex Johnson,680.25
+ACC1004,Emily Brown,9025.10
+ACC1005,Ravi Kumar,350.75
