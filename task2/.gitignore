@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Backup or temporary files
+*~
+*.bak
+*.swp
+.DS_Store
+
+# Output files from the program
+accounts.csv
+*.txt
+*.log
+
+# CMake or other build systems
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+build/
